@@ -104,30 +104,7 @@ You don't need to do anything to enable it — just use your AI tool normally. Y
 
 ---
 
-## Submission
 
-Submit on the HackerRank Community Platform:
-<https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent/submission>
-
-You will upload **three** files:
-
-1. **Code zip** — zip your `code/` directory and upload it. Exclude virtualenvs, `node_modules`, build artifacts, the `data/` corpus, and the `support_tickets/` CSVs.
-2. **Predictions CSV** — your agent's output for `support_tickets/support_tickets.csv` (i.e. the populated `output.csv`).
-3. **Chat transcript** — the `log.txt` from the path in [Chat transcript logging](#chat-transcript-logging).
-
----
-
-## Judge interview
-
-After a successful submission, your AI Judge interview will happen within a few hours after the hackathon ends. It will stay open for the next 4 hours. 
-
-The AI Judge will have access to your submission and may ask about your approach, decisions, and how you used AI while building your solution. The interview will be 30 minutes long, and keeping your camera on is mandatory.
-
-Results will be announced on May 15, 2026
-
----
-
-## Evaluation criteria
 
 Submissions are scored across four dimensions: agent design (your `code/`), the AI Judge interview, output accuracy on `support_tickets/output.csv`, and AI fluency from your chat transcript.
 
